@@ -43,7 +43,7 @@ def main():
 # Clear layar
 os.system('cls' if os.name == 'nt' else 'clear')
 
-print bcolors.CYAN
+print bcolors.normal
 print "=================================== \n";
 print " //   ____  _                       \n";
 print " //  /  _ \/ \  /|                  \n";
@@ -53,7 +53,7 @@ print " //  \____/\_/  \|                  \n";
 print "SQUAD                               \n";
 print "EARTH QUAKE DETECTOR                \n";
 print "=================================== \n";
-print bcolors.CYAN
+print bcolors.normal
 print 
 if __name__ == "__main__":
     main()
