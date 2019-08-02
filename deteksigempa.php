@@ -22,7 +22,7 @@ function main(){
 	print "\033[0m"; // Normal
 }
 system('clear');
-print "\033[01;31m"; // Merah tua
+print "\033[0;36m"; // Merah tua
 print "=================================== \n";
 print " //   ____  _                       \n";
 print " //  /  _ \/ \  /|                  \n";
